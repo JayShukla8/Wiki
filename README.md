@@ -62,7 +62,8 @@ Wiki is a simple web-based encyclopedia application where users can browse, sear
 
 - For a live demonstration of the project, watch this [video](https://youtu.be/BSn7r_ihxUw).
 - Also, here's what the home page looks like-
-- ![image](https://github.com/user-attachments/assets/43f898e8-3a0b-4467-a4ef-64765ee47c56)
+     ![image](https://github.com/user-attachments/assets/b506e55b-e7b3-4a2b-8d30-2f492e966ae5)
+
   
 ## Future Improvements
 
