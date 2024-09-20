@@ -28,7 +28,7 @@ Wiki is a simple web-based encyclopedia application where users can browse, sear
 1. **Clone the repository**:
     ```
     git clone https://github.com/JayShukla8/Wiki.git
-    cd Wiki
+    cd Wiki/
     ```
 
 2. **Install dependencies**:
@@ -58,6 +58,12 @@ Wiki is a simple web-based encyclopedia application where users can browse, sear
 
 - `entries/`: Directory where all the Markdown files for encyclopedia entries are stored.
 
+## Demo
+
+- For a live demonstration of the project, watch this [video](https://youtu.be/BSn7r_ihxUw).
+- Also, here's what the home page looks like-
+- ![image](https://github.com/user-attachments/assets/43f898e8-3a0b-4467-a4ef-64765ee47c56)
+  
 ## Future Improvements
 
 - Implement user authentication to restrict editing and page creation to logged-in users.
