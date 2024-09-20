@@ -75,7 +75,7 @@ Wiki is a simple web-based encyclopedia application where users can browse, sear
 
 ## Acknowledgements
 
-- **Mr. Brian Yu** for the inspiration and guidance and being an awesome teacher.
+- **[Mr. Brian Yu](https://github.com/brianyu28)** for the inspiration and guidance and being an awesome teacher.
 
 ---
 
